@@ -57,15 +57,17 @@ Key points:
 
 ---
 ## TABULATION
+<img width="1034" height="1600" alt="image" src="https://github.com/user-attachments/assets/e7603372-3640-4c1a-8742-011c0cc5739e" />
 
-<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/a26f7286-5848-4003-bfa5-d9eeb625ada1" />
 ---
 
 ## MODEL GRAPH
 *(Insert IV characteristics graph and optical power plots here)*
 
-<img width="552" height="560" alt="image" src="https://github.com/user-attachments/assets/5926b944-979b-4e36-ac19-20299e496b20" />
-<img width="541" height="500" alt="image" src="https://github.com/user-attachments/assets/ad1a413f-1135-4d5f-9c2f-320814fecbf4" />
+<img width="1208" height="1600" alt="image" src="https://github.com/user-attachments/assets/e6bb9ac6-38ee-4027-94f8-59052505c6e7" />
+
+<img width="1323" height="1600" alt="image" src="https://github.com/user-attachments/assets/8e8dedcd-6f60-485b-891d-b9236a81d57f" />
+
 
 ---
 
